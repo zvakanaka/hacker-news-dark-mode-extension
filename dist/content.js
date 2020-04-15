@@ -113,7 +113,7 @@ function appendHtml(str) {
  ******************************************************************************/
 body {
   filter: invert(100%);
-  background: white;
+  background: black;
 }`;
   document.head.appendChild(style);
   
