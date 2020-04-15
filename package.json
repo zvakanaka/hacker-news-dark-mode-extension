@@ -1,0 +1,26 @@
+{
+  "name": "dark-hacker-news-extension",
+  "version": "0.0.2",
+  "description": "Dark mode for Hacker News",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx ce"
+  },
+  "keywords": [],
+  "author": "Adam Quinton",
+  "license": "MIT",
+  "dependencies": {
+    "ce": "^0.2.0"
+  },
+  "devDependencies": {
+    "create-extension-cli": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvakanaka/dark-hacker-news-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zvakanaka/dark-hacker-news-extension/issues"
+  },
+  "homepage": "https://github.com/zvakanaka/dark-hacker-news-extension#readme"
+}
