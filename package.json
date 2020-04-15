@@ -1,5 +1,5 @@
 {
-  "name": "dark-hacker-news-extension",
+  "name": "hacker-news-dark-mode-extension",
   "version": "0.0.2",
   "description": "Dark mode for Hacker News",
   "main": "index.js",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zvakanaka/dark-hacker-news-extension.git"
+    "url": "git+https://github.com/zvakanaka/hacker-news-dark-mode-extension.git"
   },
   "bugs": {
-    "url": "https://github.com/zvakanaka/dark-hacker-news-extension/issues"
+    "url": "https://github.com/zvakanaka/hacker-news-dark-mode-extension/issues"
   },
-  "homepage": "https://github.com/zvakanaka/dark-hacker-news-extension#readme"
+  "homepage": "https://github.com/zvakanaka/hacker-news-dark-mode-extension#readme"
 }
