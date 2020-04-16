@@ -1,6 +1,6 @@
 {
   "name": "hacker-news-dark-mode-extension",
-  "version": "0.0.2",
+  "version": "0.3.0",
   "description": "Dark mode for Hacker News",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,8 @@
   "keywords": [],
   "author": "Adam Quinton",
   "license": "MIT",
-  "dependencies": {
-    "ce": "^0.2.0"
-  },
   "devDependencies": {
-    "create-extension-cli": "0.1.0"
+    "create-extension-cli": "0.3.0"
   },
   "repository": {
     "type": "git",
